@@ -191,6 +191,8 @@ Amplication is an open-source project. We are committed to a fully transparent d
 
 Not sure where to start? Join our discord and we will help you get started!
 
+[![Discord](https://amplication.com/images/discord_banner_purple.svg)](https://amplication.com/discord/){:target="_blank"}
+
 <a href="https://amplication.com/discord/?target=_blank" target="_blank"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 ## Contributers
