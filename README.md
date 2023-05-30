@@ -191,10 +191,10 @@ Amplication is an open-source project. We are committed to a fully transparent d
 
 Not sure where to start? Join our discord and we will help you get started!
 
-[Link](https://example.org/ "title" )
-[![Discord](https://amplication.com/images/discord_banner_purple.svg)](https://amplication.com/discord/ target="_blank")
 
-<a href="https://amplication.com/discord/" ><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+[![Discord](https://amplication.com/images/discord_banner_purple.svg)](https://amplication.com/discord/){:target="_blank"}
+
+<!-- <a href="https://amplication.com/discord/" ><img src="https://amplication.com/images/discord_banner_purple.svg" /></a> -->
 
 ## Contributers
 
